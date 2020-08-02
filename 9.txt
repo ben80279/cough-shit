@@ -1,2 +1,4 @@
 trash git 
 second trash
+fully trashlike
+
